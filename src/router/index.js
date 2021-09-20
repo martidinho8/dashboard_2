@@ -12,8 +12,8 @@ const routes = [
     component: Home
   },
   {
-    path: '/modules',
-    name: 'modules',
+    path: '/Modules',
+    name: 'Modules',
     component: modules
   },
   {

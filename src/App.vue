@@ -2,6 +2,8 @@
 
   <v-app>
 
+    
+
     <v-app-bar
 
       app
@@ -13,6 +15,22 @@
     >
 
       <div color="primary" class="d-flex align-center">
+
+                <v-img
+
+          alt="Vuetify Name"
+
+          class="shrink mt-1 hidden-sm-and-down"
+
+          contain
+
+          min-width="100"
+
+          src="./assets/logo-vitens.png"
+
+          width="100"
+
+        />
  
 
         <v-container class="py-0 fill-height">
@@ -59,21 +77,7 @@
 
 
 
-        <v-img
 
-          alt="Vuetify Name"
-
-          class="shrink mt-1 hidden-sm-and-down"
-
-          contain
-
-          min-width="100"
-
-          src="https://cdn.vuetifyjs.com/images/logos/vuetify-name-dark.png"
-
-          width="100"
-
-        />
 
       </div>
 
@@ -85,7 +89,7 @@
 
       <v-btn
 
-        href="https://github.com/vuetifyjs/vuetify/releases/latest"
+        href="https://github.com/martidinho8/dashboard_2.git"
 
         target="_blank"
 
